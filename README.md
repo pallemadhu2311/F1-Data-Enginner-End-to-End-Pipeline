@@ -42,3 +42,5 @@ Built an end‑to‑end data pipeline to ingest, process, and visualize Formula�
 · Azure Data Factory 
 · SQL 
 · Azure DeltaLake 
+
+
