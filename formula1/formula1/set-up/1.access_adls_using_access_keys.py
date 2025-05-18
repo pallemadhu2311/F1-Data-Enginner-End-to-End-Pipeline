@@ -9,13 +9,13 @@
 # COMMAND ----------
 
 spark.conf.set(
-    "fs.azure.account.key.frml1datalakecourse.dfs.core.windows.net",
-    "ZWIl6EPz74qlrHWfPI+4fNeNNJwg8NYGcAcmENrEPTBO7125wMDW0wRtN+ZvlIsDgxGvSuSdjWUb+AStOli28w=="
+    "fs.azure.account.key.<storageAccount>.dfs.core.windows.net",
+    "<Storage-Key>"
 )
 
 # COMMAND ----------
 
-dbutils.fs.ls("abfss://demo@frml1datalakecourse.dfs.core.windows.net")
+dbutils.fs.ls("abfss://<containter-name>@<StorageAccount>.dfs.core.windows.net")
 
 # COMMAND ----------
 
