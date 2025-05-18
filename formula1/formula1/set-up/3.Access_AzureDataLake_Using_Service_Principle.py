@@ -10,9 +10,9 @@
 
 # COMMAND ----------
 
-client_id = "74e76838-7099-4edc-bea7-31b7d9349675" 
-tenant_id = "d2f07c29-608d-4695-940b-5121e47e892b"
-client_secret = "l_R8Q~BS-sJxpywP2sWmqxzSErifbEuZSKUFwaJ~"
+client_id = "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXX" 
+tenant_id = "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXX"
+client_secret = "XXXX~XX-XXXXXXXXXXXXXXXXXXXXX~"
 
 # COMMAND ----------
 
